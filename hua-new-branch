@@ -1,0 +1,14 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 9f21e0b..5c17235 100644[m
+Binary files a/README.md and b/README.md differ
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 9159308..85be96f 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1,3 +1 @@[m
+[31m-<div>Hello</div>[m
+[31m-[m
+[31m-<p>Hello</p>[m
+\ No newline at end of file[m
+[32m+[m[32m<div>Hello</div>[m
+\ No newline at end of file[m
